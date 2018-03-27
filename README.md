@@ -39,9 +39,3 @@ The following files are required for heroku
 Procfile
 venv/
 ```
-
-## todo
-- navigation menu html
-- views for figures, tables, csv
-- update admin list views
-- custom css instead of headings
